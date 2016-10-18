@@ -18,7 +18,23 @@
   pages = {2727--2735},
 }
 
-
+- Joo Ho Lee and Min H. Kim have developed this software and related documentation
+  (the "Software"); confidential use in source form of the Software,
+  without modification, is permitted provided that the following
+  conditions are met:
+  1. Neither the name of the copyright holder nor the names of any
+  contributors may be used to endorse or promote products derived from
+  the Software without specific prior written permission.
+  2. The use of the software is for Non-Commercial Purposes only. As
+  used in this Agreement, "Non-Commercial Purpose" means for the
+  purpose of education or research in a non-commercial organisation
+  only. "Non-Commercial Purpose" excludes, without limitation, any use
+  of the Software for, as part of, or in any way in connection with a
+  product (including software) or service which is sold, offered for
+  sale, licensed, leased, published, loaned or rented. If you require
+  a license for a use excluded by this agreement,
+  please email [minhkim@kaist.ac.kr].
+  
 - License:  GNU General Public License Usage
   Alternatively, this file may be used under the terms of the GNU General
   Public License version 3.0 as published by the Free Software Foundation
