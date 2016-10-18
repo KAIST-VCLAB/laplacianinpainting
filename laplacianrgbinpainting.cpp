@@ -383,7 +383,7 @@ int main(int argc, char **argv){
    		free(patch_type);
 		patch_type = (bool*) malloc(sizeof(bool) * pyr_size[ilevel+1].first * pyr_size[ilevel+1].second); 
 
-		nnferr = cv::Mat::ones(pyr_size[ilevel+1].first, pyr_size[ilevel+1].second, CV_64FC1); // H x W x 1 double
+		nnferr = cv::Mat::zeros(pyr_size[ilevel+1].first, pyr_size[ilevel+1].second, CV_64FC1); // H x W x 1 double
 
 		//do EM iteration
 		sprintf(processfilename, "%s_scale%02d", fname, ilevel); 
